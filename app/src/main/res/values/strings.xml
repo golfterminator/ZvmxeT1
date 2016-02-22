@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zvmxe</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Zeevee\nZVXME</string>
+    <string name="ZvChannelIdString">Zeevee_channel_guide:</string>
+</resources>
